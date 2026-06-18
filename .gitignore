@@ -1,0 +1,5 @@
+.env
+nonprofit.db
+__pycache__/
+*.pyc
+.DS_Store

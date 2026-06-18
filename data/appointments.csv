@@ -1,0 +1,41 @@
+appointment_id,client_id,appointment_date,status,case_worker,notes
+A-001,C-0001,2026-06-01,Attended,Maria Torres,Good progress on job search
+A-002,C-0001,2026-06-08,Attended,Maria Torres,Resume updated
+A-003,C-0001,2026-06-15,Scheduled,Maria Torres,
+A-004,C-0002,2026-06-02,Attended,David Kim,Housing application submitted
+A-005,C-0002,2026-06-09,No-Show,,
+A-006,C-0002,2026-06-16,Scheduled,David Kim,
+A-007,C-0003,2026-05-20,Attended,Maria Torres,Program completed
+A-008,C-0004,2026-06-03,Attended,Sarah Johnson,Budget worksheet completed
+A-009,C-0004,2026-06-10,Attended,Sarah Johnson,Credit review done
+A-010,C-0005,2026-06-01,No-Show,,Client unreachable
+A-011,C-0005,2026-06-08,No-Show,,
+A-012,C-0005,2026-06-15,No-Show,,Third missed appointment
+A-013,C-0006,2026-06-04,Attended,Maria Torres,Lease review completed
+A-014,C-0006,2026-06-11,Attended,Maria Torres,
+A-015,C-0007,2026-05-01,Attended,Sarah Johnson,Last recorded appointment
+A-016,C-0008,2026-06-05,Attended,David Kim,
+A-017,C-0008,2026-06-12,Attended,David Kim,
+A-018,C-0009,2026-06-03,Attended,Maria Torres,
+A-019,C-0009,2026-06-10,No-Show,,
+A-020,C-0010,2026-05-15,Attended,Sarah Johnson,Completed program review
+A-021,C-0011,2026-06-06,Attended,David Kim,
+A-022,C-0011,2026-06-13,Attended,David Kim,
+A-023,C-0012,2026-06-04,Attended,Maria Torres,
+A-024,C-0013,2026-06-05,Attended,Sarah Johnson,
+A-025,C-0013,2026-06-12,No-Show,,
+A-026,C-0014,2026-03-10,No-Show,,
+A-027,C-0014,2026-03-17,No-Show,,Marked inactive
+A-028,C-0015,2026-06-07,Attended,Maria Torres,
+A-029,C-0015,2026-06-14,Attended,Maria Torres,
+A-030,C-0016,2026-06-08,Attended,Sarah Johnson,
+A-031,C-0017,2026-06-09,Attended,David Kim,
+A-032,C-0018,2026-06-10,Attended,Maria Torres,
+A-033,C-0019,2026-05-20,Attended,Sarah Johnson,Program completed
+A-034,C-0020,2026-06-11,Attended,David Kim,
+A-035,C-0021,2026-06-12,Attended,Maria Torres,
+A-036,C-0022,2026-06-06,No-Show,,
+A-037,C-0022,2026-06-13,Attended,Sarah Johnson,
+A-038,C-0999,2026-06-10,Attended,,Unknown client ID
+A-039,C-0024,2026-06-08,Attended,Maria Torres,
+A-040,C-0025,2026-06-09,Attended,Sarah Johnson,
