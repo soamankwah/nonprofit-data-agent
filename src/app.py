@@ -7,6 +7,7 @@ using plain English. No SQL knowledge required.
 import streamlit as st
 import sys
 import os
+os.environ["ANTHROPIC_API_KEY"] = st.secrets["ANTHROPIC_API_KEY"]
 
 sys.path.insert(0, os.path.dirname(__file__))
 from agent import answer_question
